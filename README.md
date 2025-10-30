@@ -47,11 +47,6 @@ I'm currently studying React and Next.js, as well as other tools and frameworks 
 
 <br/>
 
-<!-- Contributor Stats -->
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bry-ly&limit=5&theme=react&combine_all_yearly_contributions=true" />
-</div>
-
 <br/>
 <div align="center">
   <picture>
