@@ -53,7 +53,11 @@ I'm currently studying React and Next.js, as well as other tools and frameworks 
 </div>
 
 <br/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 <!-- Visit Counter -->
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=bry-ly">
