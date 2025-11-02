@@ -44,18 +44,6 @@ I'm currently studying React and Next.js, as well as other tools and frameworks 
   <img src="https://nirzak-streak-stats.vercel.app/?user=bry-ly&theme=tokyonight&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bry-ly&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-
-<br/>
-
-<br/>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
-</div>
-
 <!-- Visit Counter -->
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=bry-ly">
