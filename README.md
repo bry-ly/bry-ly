@@ -16,15 +16,6 @@ const bryan = {
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/bryan.palay.35)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aokinyccc)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@brylle092805)
-
-</div>
 
 ---
 
