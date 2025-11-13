@@ -1,5 +1,5 @@
 
-## 🚀 About Me
+##  About Me
 
 ```typescript
 const bryan = {
@@ -16,7 +16,7 @@ const bryan = {
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
