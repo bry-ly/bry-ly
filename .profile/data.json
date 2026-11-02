@@ -1,0 +1,469 @@
+{
+ "key": "2fd7cfef",
+ "stars": 17,
+ "contributions": 2507,
+ "repos": 33,
+ "followers": 1,
+ "languages": [
+  [
+   "TypeScript",
+   9565480
+  ],
+  [
+   "QML",
+   7053290
+  ],
+  [
+   "CSS",
+   1648394
+  ],
+  [
+   "JavaScript",
+   696374
+  ],
+  [
+   "PHP",
+   356506
+  ],
+  [
+   "HTML",
+   132617
+  ],
+  [
+   "GLSL",
+   121011
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 2,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 50
+ },
+ "pins": [
+  {
+   "name": "Ukishima",
+   "url": "https://github.com/amanhex/Ukishima",
+   "text": "浮島 Ukishima — a Quickshell pill/bar shell for Hyprland",
+   "fork": false,
+   "stars": 119,
+   "language": "QML",
+   "topics": [
+    "dynamic-island",
+    "hyprland",
+    "quickshell",
+    "topbar"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "Drive-Ease",
+   "url": "https://github.com/bry-ly/Drive-Ease",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Health-Care",
+   "url": "https://github.com/bry-ly/Health-Care",
+   "text": "This healthcare management system provides a complete solution for managing appointments, patient records, doctor schedules, and administrative tasks. The system supports three distinct user roles, each with tailored dashboards and functionalities to meet their specific needs.",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": [
+    "better-auth",
+    "healthcare",
+    "nextjs",
+    "postgresql",
+    "prisma"
+   ]
+  },
+  {
+   "name": "ii-material-sddm",
+   "url": "https://github.com/bry-ly/ii-material-sddm",
+   "text": "Material Design 3 SDDM theme inspired by the ii lockscreen from end-4/dots-hyprland",
+   "fork": true,
+   "stars": 1,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "everything-claude-code",
+   "url": "https://github.com/bry-ly/everything-claude-code",
+   "text": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "1code",
+   "url": "https://github.com/bry-ly/1code",
+   "text": "Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "bryanpalay.me",
+   "url": "https://github.com/bry-ly/bryanpalay.me",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Culm-LMS",
+   "url": "https://github.com/bry-ly/Culm-LMS",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Librarium",
+   "url": "https://github.com/bry-ly/Librarium",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Portfolio",
+   "url": "https://github.com/bry-ly/Portfolio",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "nextjs",
+    "portfolio-site",
+    "portfolio-website",
+    "prisma",
+    "shadcn-ui",
+    "templates"
+   ]
+  },
+  {
+   "name": "APlus-QuizSystem",
+   "url": "https://github.com/bry-ly/APlus-QuizSystem",
+   "text": "A+ Quiz System is a user-friendly assessment platform designed to make quizzes easier to create, manage, and evaluate. It provides automated scoring, a clean and responsive interface, and flexible quiz formats to support both students and instructors. This system aims to improve learning efficiency by delivering fast results",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Dental-U-Care",
+   "url": "https://github.com/bry-ly/Dental-U-Care",
+   "text": "Dental Booking System",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "dental-website",
+    "mongodb",
+    "nextjs",
+    "prisma",
+    "shadcn-ui",
+    "tailark"
+   ]
+  },
+  {
+   "name": "Amethyst-Inn",
+   "url": "https://github.com/bry-ly/Amethyst-Inn",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Serene-Inn-Guest-House",
+   "url": "https://github.com/bry-ly/Serene-Inn-Guest-House",
+   "text": "Serene Inn Guest House is your home away from home, offering cozy rooms, warm hospitality, and a peaceful atmosphere. Perfect for travelers seeking comfort and relaxation, it combines convenience with tranquility, making every stay memorable whether for business, leisure, or a quiet getaway.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Captcha",
+   "url": "https://github.com/bry-ly/Captcha",
+   "text": "Secured Login With Math Captcha Verification",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Image_Pixel",
+   "url": "https://github.com/bry-ly/Image_Pixel",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Secured-Login-Math-Verifacation",
+   "url": "https://github.com/bry-ly/Secured-Login-Math-Verifacation",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "Learning-Coding",
+   "url": "https://github.com/bry-ly/Learning-Coding",
+   "text": "Journey Learning Programming and Creating Programs!",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "FindLink1",
+   "url": "https://github.com/bry-ly/FindLink1",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "bry-ly",
+   "url": "https://github.com/bry-ly/bry-ly",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "fbc-system-pwa",
+   "url": "https://github.com/bry-ly/fbc-system-pwa",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "dotfiles",
+   "url": "https://github.com/bry-ly/dotfiles",
+   "text": "CachyOS + Hyprland + Quickshell dotfiles",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "lto-reviewer",
+   "url": "https://github.com/bry-ly/lto-reviewer",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Ukishima",
+   "url": "https://github.com/bry-ly/Ukishima",
+   "text": "浮島 Ukishima — a Quickshell pill/bar shell for Hyprland",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "visualize-omar",
+   "url": "https://github.com/bry-ly/visualize-omar",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "SilentSddm",
+   "url": "https://github.com/bry-ly/SilentSddm",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "email-simulator",
+   "url": "https://github.com/bry-ly/email-simulator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "multipurpose-gym-reservation",
+   "url": "https://github.com/bry-ly/multipurpose-gym-reservation",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "pool-reservation",
+   "url": "https://github.com/bry-ly/pool-reservation",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "login-with-lockout",
+   "url": "https://github.com/bry-ly/login-with-lockout",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Steganography-Tool",
+   "url": "https://github.com/bry-ly/Steganography-Tool",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "text-autocompletion",
+   "url": "https://github.com/bry-ly/text-autocompletion",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "ect-system-",
+   "url": "https://github.com/bry-ly/ect-system-",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "e-commerce",
+   "url": "https://github.com/bry-ly/e-commerce",
+   "text": "A responsive and interactive e-commerce demo application built with Next.js 16, Prisma, and TailwindCSS v4, utilizing \"use cache\" for performance optimization.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
