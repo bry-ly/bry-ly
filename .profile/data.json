@@ -1,5 +1,5 @@
 {
- "key": "5f3d44ac",
+ "key": "af339ad6",
  "stars": 17,
  "contributions": 2508,
  "repos": 33,
@@ -157,7 +157,7 @@
    "url": "https://github.com/amanhex/Ukishima",
    "text": "浮島 Ukishima — a Quickshell pill/bar shell for Hyprland",
    "fork": false,
-   "stars": 119,
+   "stars": 120,
    "language": "QML",
    "topics": [
     "dynamic-island",
